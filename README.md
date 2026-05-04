@@ -41,8 +41,13 @@ jmeter -n -t JsonPlaceholder_Test.jmx -l results.jtl -e -o Report
 包含技術
 
 Thread Group 與併發控制
+
 HTTP Request + Header Manager
+
 JSON Extractor 資料提取
+
 JSON Assertion 結果驗證
+
 非 GUI 模式執行與報告生成
+
 參數化與關聯技術
