@@ -29,7 +29,9 @@
 
 ##  報告截圖
 
-![Performance Report](screenshots/report_dashboard.png)
+<img width="1884" height="918" alt="image" src="https://github.com/user-attachments/assets/7e0e1194-b708-48a9-835d-67a9261ee4d5" />
+<img width="1556" height="466" alt="image" src="https://github.com/user-attachments/assets/64e18a22-88fe-4b17-bebf-be97b61304d7" />
+
 
 ## 🚀 如何執行
 ```bash
